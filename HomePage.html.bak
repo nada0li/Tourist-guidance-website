@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tourist guide</title>
+<link rel="stylesheet" href="homePage.css" type="text/css">
+</head>
+<body>
+
+<div class="pagefoto">
+<div class="im4"><img  src="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\jed.jpg" width="100%" height="300px" style=" opacity: 1.4;" ></div>
+<div class="im2"><img  src="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\ab66.jpg" width="100%" height="300px" style=" opacity: 1.4;" ></div>
+<div class="im3"><img  src="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\alu12.jpeg" width="100%" height="300px" style=" opacity: 1.4;" ></div>
+<div class="im1"><img  src="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\R22.jpg" width="100%" height="300px"  style=" opacity: 1.4;" ></div>
+<div class="Header">
+<div ><h4>Tourist guide</h4></div>
+<nav>
+<ul>
+
+<li class="home"> <a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\HomePage.html">Home</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\aboutUs.html">About Us</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\ContactUs.html">Contact Us</a></li>
+</ul>
+</nav>
+</div>
+
+<div class="cont">
+
+<div class="intro"><p><b> Welcome to Suadi Arabia</b></p></div><br>
+<div class="pra"><p><b> We Wish you Pleasant trip</b></p></div>
+
+
+<div class="select" style="width:200px;">
+  <select name="forma"  onchange="location = this.value;">
+   <option value="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\P2.html">Riyadh</option>
+    <option value="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\tray.html">ALAULA</option>
+    <option value="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\abha.html">Abaha</option>
+  </select>
+</div>
+</div>
+
+</body>
+</html>

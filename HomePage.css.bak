@@ -1,0 +1,151 @@
+
+body{
+	margin:0px;
+    background:white;
+	
+		
+}
+
+
+ul {
+  list-style-type:none;
+  margin:0px;
+  padding:3px;
+  float:right;
+}
+li{
+	display:inline-block;
+	padding:20px;
+	font-size:20px;
+	
+}
+a {
+    text-decoration:none;
+	padding:4px;
+	color:white;
+	
+
+}
+.home a{
+ color:#cc66ff;	
+}
+ a:hover{
+	background-color:#9f5dc0 ;
+	padding:12px;
+	color:white;
+	
+}
+h4{
+	
+	float:left;
+	font-size:30px;
+	color:white;
+	padding:0.5% 2% 0.5% 8%;
+	margin:18px 0px 0px 0px ;
+	background:#8b5cb1 ;
+	
+
+}
+.pagefoto {
+  position: relative;
+  display:grid;
+   grid-template-areas: 
+    'im1 im2' 
+    'im3 im4';
+	
+   grid-gap:0px;
+} 
+.im1{
+	border:1px solid white;
+grid-area:im1;	
+}
+.im2{
+	border:1px solid white;
+grid-area:im2;	
+}.im3{
+	border:1px solid white;
+grid-area:im3;	
+}.im4{
+	border:1px solid white;
+grid-area:im4;	
+}
+.cont{
+	position:absolute;
+	padding:300px;
+	padding-bottom:30px;
+	background:#b675d7;
+	opacity:0.8;
+	top:150px;
+	margin-left:300px;
+	border:1px solid white;
+	
+}
+
+.intro p{
+  position: absolute;
+  top: 5%;
+  width: 100%;
+  text-align: center;
+  font-size: 320%;
+  color:white;
+   left:1px;
+   
+}
+
+.pra p{
+  position: absolute;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  font-size: 220%;
+  color:white;
+ left:1px;
+}
+.Header{
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  text-align: right;
+  font-size: 190%;
+  color:white;
+
+}
+
+.select{
+
+  position: absolute;
+  top: 55%;
+  right:50%;
+  color:white;
+  opacity:0.1px;
+}
+.select select{
+	
+  background:0px;
+  width:180%;
+  height:50px;
+  color:#F9E79F;
+  border-bottom:4px solid #F9E79F ;
+  font-size:30px;
+  
+}
+select:hover{
+	background-color:#9767b0;
+	padding:2px;
+	font-size:40px;
+	color:white;
+	
+	
+	
+}
+
+.select option{
+	text-align:center;
+	color:white;
+    border:none;
+	height:50px;
+   font-size:40px;
+   background-color:#9767b0;
+ 
+  
+}
