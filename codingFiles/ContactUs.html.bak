@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tourist guide</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="ContactUs.css" type="text/css">
+</head>
+<body>
+
+
+<div class="allPage">
+
+<div class="Header">
+<p class="msg">Send us a message</p>
+<nav>
+<ul>
+<li class="home"> <a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\HomePage.html">Home</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\aboutUs.html">About Us</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\ContactUs.html">Contact Us</a></li>
+</ul>
+</nav>
+</div>
+
+<div class="sec">
+<section class="sec1" >
+<form action="/action_page.php"  onsubmit="return validateForm()"method="post" >
+<br><br>
+<label for="address">Name:</label><br><br>
+<input class="in" type="text" id="name"  placeholder="Enter your Name" ><br><br>
+<label for="email">Email:</label><br><br>
+<input class="in" type="text" id="email"   placeholder="Enter a valid email address"> <br><br>
+<label for="msg">Message:</label><br><br>
+<textarea class="in" rows="3" cols="28" id="msg" placeholder="Enter your message"></textarea><br><br>
+<input class="buttn" type="submit"   value="Send" style=" background-color:#EBDEF0;  color:black;"type="button" onclick="validateForm()">
+<form>
+</section>
+
+
+<div class="sec2"><p align="center"  style="font-size:35px; color:white;"><b>Contact Us</b> </p>
+<p align="center">We'r open for any suggestion or to have a chat</p>
+
+<div class="contact">
+<br>
+<img src="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\اتصال.png" width="40px"height="40px"  >
+<p>Phone:+966 540 270 405</p><br>
+<img src="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\em.jpg" width="40px"height="40px">
+<p>Email:TouristGuide23@gmail.com</p><br>
+<img src="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\insta.png" width="40px"height="40px" >
+<p>instgram:TouristGuide_23</p><br>
+<img src="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\web.jpg" width="40px"height="40px">
+
+<p>Website:TouristGuide.com</p>
+</div>
+</div>
+
+</div>
+</div>
+
+
+
+
+
+<script>
+
+function validateForm(){
+let e=document.getElementById("email").value;
+let n=document.getElementById("name").value;
+let m=document.getElementById("msg").value;
+if( e =="" || n=="" || m==""){
+alert("field must be filled out");
+return false;
+
+
+}
+if( isNaN(e) || isNaN(n) || isNaN(m)){
+alert("not allow enter number ");
+}
+}
+</script>
+</body>
+</html>

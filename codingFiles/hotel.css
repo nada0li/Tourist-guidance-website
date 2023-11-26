@@ -1,0 +1,109 @@
+
+body{
+	margin:0px;
+	background:#e7dff1;
+}
+
+header{
+	background:#e7dff1;
+	margin:0px;
+    padding:0px;
+}
+
+h2{
+	background-color:#8b54d1;
+	width: 200px;
+	text-align: center;
+	color: white;
+	float:left;
+	padding:9px;
+	font-size:25px;
+}
+
+nav{
+	background:#e7dff1;
+	text-align: right;
+	color: black;
+	float:right;
+}
+
+nav ul{
+	list-style-type: none;
+	margin: 15px;
+	padding: 0px;
+	float: right;
+ 
+	
+}
+
+li{
+	float: left;
+	
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 6px 10px;
+ background:#e7dff1;
+  text-decoration: none;
+}
+
+
+li a:hover:not(.active) {
+  background-color: #8b54d1;
+  color: white;
+}
+
+
+article img{
+	float:left;
+	height:430px;
+	width:400px;
+	padding-top:22px;
+margin-left:20px;
+}	
+	
+
+
+section{
+	border:90px solid #e7dff1;
+    padding:0px;
+	margin-left:100px;
+	margin-right:100px;
+	
+    
+}
+
+article h5{
+	background-color:#8b54d1;
+	opacity:0.8;
+	color:block, opacity:1.0;
+	padding:40px;
+	float: right;
+	height: 350px;
+	width: 330px;
+	margin-bottom:0px;
+	
+}
+Button{
+	
+	float:middle;
+	text-align:center;
+	border-radius: 2px;
+	text-decoration:none;
+	display:inline-block;
+	border:none;
+	padding:3px 5px;
+	color:#00FF7F;
+	text-shadow: 2px 2px 4px #00FF7F;
+	background-color:#FAEBD7;
+	cursor:pointer;
+}
+
+ a Button:hover:not(.active) {
+  background-color: #B0C4DE;
+  color: white;
+}
+
+	

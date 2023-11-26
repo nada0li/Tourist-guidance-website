@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nada ALheali</title>
+<style>
+ * {
+  box-sizing: border-box;
+}
+body{
+background-color: #dcdef4;
+}
+.allHeader{
+text-align: top;
+ height: 20px;
+ padding:70px;
+ color:white;
+ }  
+
+.logo{
+font-size:40px;
+float:left;
+padding-left: 30px;
+padding-right:15px;
+margin-left: -80px;
+width: 300;
+background-color: #a484e1;
+}
+
+.linkBar{	
+	float :right;
+	display:flex;
+}
+
+.linkBar ul{
+	list-style:none;
+	display:inline-block;	
+	text-decoration:none;
+}
+.linkBar li {
+	display:inline-block;
+	padding:9px;
+   text-decoration:none;
+	
+	
+}
+
+.linkBar a{
+    padding:4px;
+	color:black;
+	float:left;
+	text-decoration:none;
+}
+.linkBar a:hover{
+	background-color:#b494ee;
+	color:white;
+}
+.Hotel1IMG { 
+ grid-area: b1;
+ }
+.Hotel {
+ grid-area: o1;
+ }
+.Hotel2IMG {
+ grid-area: b2;
+ }
+.Hotel2 {
+ grid-area: o2;
+ }
+.Hotel3IMG {
+ grid-area: b3;
+ }
+.Hotel3{
+ grid-area: o3;
+ }
+.Hotel4IMG{
+ grid-area: b4; }
+.Hotel4 { grid-area: o4;
+ }
+
+.Hotels{
+  display: grid;
+  background-size: auto;
+ background-color: #dcdef4;
+ grid-template-areas:
+ ' b1 o1'
+ ' b2 o2'
+ ' b3 o3'
+ ' b4 o4';
+  grid-row-gap: 80px;
+}
+
+.Hotels > div {
+  background-color: #a484e1;
+  padding: 100px;
+  height: 500px;
+  width:500px;
+  margin-left:70px;
+  margin-right:20px;
+}
+
+h3{
+text-align: center;
+ color:white;
+   font-size: 30px;
+    margin-top:2px;
+	}
+	p{
+text-align: center;
+ color:black;
+ margin-top:1px;
+ margin-bottom:15px;
+	}
+button {
+  background-color:white;
+  color: black;
+  padding: 15px;
+  text-align: center;
+  font-size: 15px;
+  cursor: pointer;
+  margin: 4px 90px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 0  13px #9999;
+  }
+	
+</style>
+</head>
+<body>
+<header class="allHeader">
+ <section class="logo" >Tourist Guide</section>
+  <ul class = "linkBar">
+<li class="home"> <a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\HomePage.html">Home</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\aboutUs.html">About Us</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\ContactUs.html">Contact Us</a></li>
+ </ul>
+ </a>
+ </header>
+<div class="Hotels">
+  <div class="Hotel1IMG" style="background-image: url(R.jpg);
+   background-size: cover;
+  padding: 10px;
+  height: 500px;
+   position: relative;
+   width:500px;" ></div>
+  <div class="Hotel1" ><h3>Ritz-Carlton Hotel</h3></br><p>The Ritz-Carlton Riyadh is one of the best five-star hotels in Riyadh that offers a variety of services.The hotel includes 52 acres of gardens with picturesque green spaces, spacious and luxurious accommodation, in addition to various high-end restaurants and cafes. </p><a href="https://www.urtrips.com/the-ritz-carlton-hotel-riyadh/"target="_blank">
+<button>More Details</button>
+</a>
+</div>
+  <div class="Hotel2IMG" style="background-image: url(F.jpg);
+   background-size: cover;
+  padding: 10px;
+  height: 500px;
+   position: relative;
+  width:500px; " ></div>  
+  <div class="Hotel2"><h3>Fairmont Hotel</h3></br><p>The Fairmont Hotel offers its guests, visitors of the city of Riyadh, an elegant accommodation in family rooms and modern spacious and elegant suites that include an equipped private bathroom, a desk and a flat cable TV.</p><a href="https://www.urtrips.com/fairmont-hotel-riyadh/"target="_blank">
+<button>More Details</button>
+</a>
+</div>
+  <div class="Hotel3IMG"style="background-image: url(N.jpg);
+   background-size: cover;
+  padding: 10px;
+  height: 500px;
+   position: relative;
+  width:500px; " ></div>
+  <div class="Hotel3"><h3>Narcissus Hotel</h3></br><p>The hotel, which is considered the most luxurious hotel in Riyadh, offers a range of air-conditioned rooms featuring the finest classic décor. Each room includes a seating area, flat-screen TV, and a marble bathroom.
+</p><a href="https://www.urtrips.com/narcissus-hotel-riyadh/"target="_blank">
+<button>More Details</button>
+</a>
+</div>
+<div class="Hotel4IMG"style="background-image: url(H.jpg);
+   background-size: cover;
+  padding: 10px;
+  height: 500px;
+   position: relative;
+  width:500px; " ></div>
+  <div class="Hotel4"><h3>Hyatt Regency Hotel</h3></br><p>Hyatt Regency Riyadh offers rooms and suites characterized by luxurious decorations and designs, in addition to elegant décor and stunning views. The hotel offers 9 halls of various sizes for holding a variety of occasions, and they can be equipped for conferences.</p><a href="https://www.urtrips.com/hyatt-regency-riyadh-olaya-hotel/"target="_blank">
+<button>More Details</button>
+</a>
+</div>
+</div>
+</body>
+</html>

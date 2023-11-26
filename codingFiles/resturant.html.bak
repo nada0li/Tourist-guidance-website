@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+
+<html>
+<head><title>Abha Resturant</title></head>
+<link rel="stylesheet" href="resturant.css" type="text/css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<body>
+
+<header>
+<h2>Tourist Guide</h2>
+
+<nav>
+ <ul>
+ <li class="home"> <a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\HomePage.html">Home</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\aboutUs.html">About Us</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\ContactUs.html">Contact Us</a></li>
+ </ul>
+</nav>
+    </header>  
+	
+<section>
+
+
+
+<article>
+<img src ="to.jpg ">
+</article>
+<article>
+<h5>
+Tolie Restaurant<br>
+<a href="https://www.google.com/maps/place/Tolie+Restaurant/@18.2176875,42.5026875,15z/data=!4m5!3m4!1s0x0:0x4891c07aafe2f01c!8m2!3d18.2176875!4d42.5026875" target="_blank">Address</a>:6G93+33F, 8067 King Faisal Rd, Town Center, Abha 62521<br>
+<a href="https://www.overmenu.store/tolie" target="_blank">menu</a><br>
+Phone:011 510 8555<br>
+Details<br>
+PRICE RANGE<br>
+SAR 50- SAR 256<br>
+CUISINES<br>
+turkish<br>
+FEATURES<br>
+Seating<br>
+<br><br>
+ </h5>
+</article>
+
+
+<article>
+<img src ="va.jpg ">
+</article>
+<article>
+<h5>
+Farvelli Italian Restaurant & Cafe<br>
+<a href="https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D9%88%D9%83%D8%A7%D9%81%D9%8A%D9%87+%D9%81%D8%A7%D8%B1%D9%81%D9%8A%D9%84%D9%8A+%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%E2%80%AD/@18.2297594,42.5468486,15z/data=!4m5!3m4!1s0x0:0x77a39162689e3fb1!8m2!3d18.2297594!4d42.5468486" target="_blank">Address</a>: King Fahd Rd, Alarin, Abha 62528<br>
+<a href="https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D9%88%D9%83%D8%A7%D9%81%D9%8A%D9%87+%D9%81%D8%A7%D8%B1%D9%81%D9%8A%D9%84%D9%8A+%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%E2%80%AD/@18.2297594,42.5468486,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNfGH3ji5EY7EeM1tHWZlYU_9dbtgJaOgqEqpFX!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNfGH3ji5EY7EeM1tHWZlYU_9dbtgJaOgqEqpFX%3Dw224-h364-k-no!7i1284!8i2088!4m7!3m6!1s0x0:0x77a39162689e3fb1!8m2!3d18.2297594!4d42.5468486!14m1!1BCgIYIQ" target="_blank">menu</a><br>
+Order: <a href=" https://hungerstation.com/sa-ar/restaurant/farfalli/%D8%A3%D8%A8%D9%87%D8%A7/%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D9%86/47441" target="_blank">hungerstation.com</a><br>
+Phone: 0539039390<br>
+Details<br>
+PRICE RANGE<br>
+SAR 10- SAR 90<br>
+CUISINES<br>
+italian<br>
+FEATURES<br>
+Seating<br>
+<br><br>
+ </h5>
+</article>
+
+
+
+<article>
+<img src ="jo1.jpg ">
+</article>
+<article>
+<h5>
+Jorry Elite (Senso, Aala Bali , La Scene)<br>
+<a href="https://www.google.com/maps/place/Jorry+Elite+(+Senso,+Aala+Bali+,+La+Scene+)/@18.2002538,42.4992173,15z/data=!4m5!3m4!1s0x0:0x760cc886acf88c0a!8m2!3d18.2002538!4d42.4992173" target="_blank">Address</a>: King Abdul Aziz Rd, Al Shifa, Abha 65251<br>
+<a href="https://www.google.com/maps/place/Jorry+Elite+(+Senso,+Aala+Bali+,+La+Scene+)/@18.2002538,42.4992173,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNzOkNseCJHjBEE_BJbd3o1mwiYXkh_Kkx4MY8!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNzOkNseCJHjBEE_BJbd3o1mwiYXkh_Kkx4MY8%3Dw224-h398-k-no!7i720!8i1280!4m7!3m6!1s0x0:0x760cc886acf88c0a!8m2!3d18.2002538!4d42.4992173!14m1!1BCgIYIQ" target="_blank">menu</a><br>
+Order: <a href="https://hungerstation.com/sa-ar/restaurant/%D8%AC%D9%88%D8%B1%D9%8A-4/%D8%A3%D8%A8%D9%87%D8%A7/%D8%A7%D9%84%D8%B6%D8%A8%D8%A7%D8%A8/29945" target="_blank">hungerstation.com</a><br>
+Phone: 0172300750<br>
+Details<br>
+PRICE RANGE<br>
+SAR 10-SAR 88<br>
+CUISINES<br>
+lebanon<br>
+FEATURES<br>
+Seating<br>
+<br><br>
+ </h5>
+</article>
+
+
+
+<article>
+<img src ="las1.jpg ">
+</article>
+<article>
+<h5>
+LAS TAPAS® Restaurant<br>
+<a href="https://www.google.com/maps/place/LAS+TAPAS%C2%AE+Restaurant/@18.2010962,42.5096065,15z/data=!4m2!3m1!1s0x0:0xac3ff911616ad77?sa=X&ved=2ahUKEwib8-WuiPH3AhWFwoUKHRmjCloQ_BJ6BAhSEAU" target="_blank">Address</a>:4280 King Abdul Aziz Rd, Al Dabab, Abha 62521 6220<br>
+<a href="https://online.pubhtml5.com/aimv/fwio/#p=1" target="_blank">menu</a><br>
+Order: <a href="https://hungerstation.com/sa-ar/restaurant/%D9%84%D8%A7%D8%B3-%D8%AA%D8%A7%D8%A8%D8%A7%D8%B3/%D8%A3%D8%A8%D9%87%D8%A7/%D8%A7%D9%84%D8%B6%D8%A8%D8%A7%D8%A8/14058" target="_blank">hungerstation.com</a><br>
+Phone: 0172268459<br>
+Details<br>
+PRICE RANGE<br>
+SAR 10-SAR 139<br>
+CUISINES<br>
+france<br>
+FEATURES<br>
+Seating<br>
+<br><br>
+ </h5>
+</article>
+
+
+<article>
+<img src ="tonir.jpg ">
+</article>
+<article>
+<h5>
+tonir Restaurant<br>
+<a href="https://www.google.com/maps/place/%D8%AA%D9%88%D9%86%D9%8A%D8%B1%E2%80%AD/@18.2549032,42.6306901,15z/data=!4m2!3m1!1s0x0:0xd523e1420305bf86?sa=X&ved=2ahUKEwjm8o_KpfH3AhUU8RoKHZKxCVoQ_BJ6BAhFEAU" target="_blank">Address</a>:King Fahd Rd, Abha 62437<br>
+<a href="https://www.tonir.com.sa/menu/" target="_blank">menu</a><br>
+Phone: 9200 22097<br>
+Details<br>
+PRICE RANGE<br>
+SAR 20-SAR 100<br>
+CUISINES<br>
+turkish & lebanon<br>
+FEATURES<br>
+Seating<br>
+<br><br>
+ </h5>
+</article>
+
+
+
+
+ 
+ <article>
+<img src ="ru.jpg ">
+</article>
+ <article>
+<h5>
+Rusticana Restaurant<br>
+<a href="https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D8%B1%D9%88%D8%B3%D8%AA%D9%8A%D9%83%D8%A7%D9%86%D8%A7+%D8%A7%D8%A8%D9%87%D8%A7%E2%80%AD/@18.210106,42.4906046,15z/data=!4m5!3m4!1s0x0:0x88d84a8758e802b1!8m2!3d18.210106!4d42.4906046" target="_blank">Address</a>:Al Muftaha, طريق الملك عبدالعزيز، Abha<br>
+<a href="https://sites.google.com/view/rusticana1" target="_blank">menu</a><br>
+Order: <a href="https://hungerstation.com/sa-ar/restaurant/%D8%B1%D9%88%D8%B3%D8%AA%D9%83%D8%A7%D9%86%D8%A7/%D8%A3%D8%A8%D9%87%D8%A7/%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%A7%D8%AD%D8%A9/38439" target="_blank">hungerstation.com</a><br>
+Phone: 0554528555<br>
+Details<br>
+PRICE RANGE<br>
+SAR 40-SAR 179<br>
+CUISINES<br>
+meat dish<br>
+FEATURES<br>
+Seating<br>
+<br><br>
+ </h5>
+</article>
+
+
+
+
+<article>
+<img src ="roo.jpg ">
+</article>
+<article>
+<h5>
+the roof Restaurant & Coffee<br>
+<a href="https://www.google.com/maps/place/The+Roof+Restaurant%26+Caffee/@18.2143181,42.5012222,15z/data=!4m5!3m4!1s0x0:0x6609fc85d56c1afc!8m2!3d18.2143181!4d42.5012222" target="_blank">Address</a>:شارع الملك سعود، Al Khasha, Abha 62521<br>
+<a href="https://www.google.com/maps/place/The+Roof+Restaurant%26+Caffee/@18.2143181,42.5012222,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipM4nkqysXty-bEpC_Wuuk7jzQR3FM6toBDjF7Wu!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM4nkqysXty-bEpC_Wuuk7jzQR3FM6toBDjF7Wu%3Dw224-h298-k-no!7i3024!8i4032!4m7!3m6!1s0x0:0x6609fc85d56c1afc!8m2!3d18.2143181!4d42.5012222!14m1!1BCgIYIQ" target="_blank">menu</a><br>
+</a>
+Phone: 0172305000<br>
+Details<br>
+PRICE RANGE<br>
+SAR 10-SAR 100<br>
+FEATURES<br>
+Seating<br>
+<br><br>
+ </h5>
+</article>
+
+
+<article>
+<img src ="sw.jpg ">
+</article>
+<article>
+<h5>
+Swaja Restaurant<br>
+<a href="https://www.google.com/maps/place/Swaja/@18.2313512,42.4969243,15z/data=!4m5!3m4!1s0x0:0x66bf0c3afda65652!8m2!3d18.2313512!4d42.4969243 target="_blank">Address</a>:Al Wardatain, 3211 طريق الملك عبدالعزيز، حي، Abha<br>
+<a href="https://www.google.com/maps/place/Swaja/@18.2315629,42.4964201,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipM5CqtbuGGfUPIFTKf6qmvGXu601JodYDSsMDso!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM5CqtbuGGfUPIFTKf6qmvGXu601JodYDSsMDso%3Dw203-h270-k-no!7i3024!8i4032!4m7!3m6!1s0x0:0x66bf0c3afda65652!8m2!3d18.2313512!4d42.4969243!14m1!1BCgIYIQ" target="_blank">menu</a><br>
+Order: <a href="https://hungerstation.com/sa-ar/restaurant/swaja---%D8%B3%D9%88%D8%A7%D8%AC%D8%A7/%D8%A3%D8%A8%D9%87%D8%A7/%D8%A7%D9%84%D9%88%D8%B1%D8%AF%D8%AA%D9%8A%D9%86/12264" target="_blank">hungerstation.com</a><br>
+Phone:0599525352<br>
+Details<br>
+PRICE RANGE<br>
+SAR 5-SAR 20<br>
+CUISINES<br>
+burger<br>
+FEATURES<br>
+Seating<br>
+<br><br>
+ </h5>
+</article>
+<article>
+<img src ="li.png" >
+</article>
+<article>
+<h5 >
+India Nights Restaurant<br>
+<a href="https://www.google.com/maps/place/India+Nights+Restaurant/@18.2277129,42.5435971,15z/data=!4m5!3m4!1s0x0:0x9ae073022a56d700!8m2!3d18.2277129!4d42.5435971" target="_blank">Address</a>: King Fahd Rd, مجمع رفالا بلازا، Abha <br>
+<a href="https://www.google.com/search?rlz=1C1SQJL_arSA890SA890&sxsrf=ALiCzsaDQJaC2yrFzWFDORfJj3T_12wv-A:1653120842251&q=restaurant+night+of+india+abha+address&ludocid=11160046329761552128&sa=X&ved=2ahUKEwj_7riEk_D3AhWZgs4BHZVMA1kQ6BN6BAgdEAI&biw=1280&bih=577&dpr=1.5#lpc=lpc" target="_blank">menu</a><br>
+Order: <a href="https://apps.apple.com/sa/app/toyou-food-transportation/id1196302015" target="_blank">apple.com,</a> <a href="https://shgardi.app/" target="_blank"> shgardi.app, </a><a href="https://www.jahez.net/" target="_blank">jahez.net,</a> <a href="https://hungerstation.com/sa-ar/restaurant/%D9%85%D8%B7%D8%B9%D9%85-%D9%84%D9%8A%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF/%D8%A3%D8%A8%D9%87%D8%A7/%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D9%86/26163" target="_blank">hungerstation.com</a><br>
+Phone: 059 248 8252<br>
+Details<br>
+PRICE RANGE<br>
+SAR 40 - SAR 90<br>
+CUISINES<br>
+Indian<br>
+FEATURES<br>
+Seating<br>
+<br><br>
+ 
+ </h5>
+</article>
+
+
+</section>
+</body>
+</html>

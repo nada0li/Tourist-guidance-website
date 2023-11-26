@@ -1,0 +1,96 @@
+body{
+margin:0px;
+	background:#794b90;
+}
+
+ul {
+  list-style-type:none;
+position:absolute;
+padding-left:300px;
+}
+li{
+	display:inline-block;
+	padding-top:32px;
+	font-size:20px;
+	
+}
+a {
+    text-decoration:none;
+	padding:25px;
+	color:white;
+
+
+}
+.home a{
+ color:#e4c05f ;
+
+}
+ a:hover{
+	background-color:#794b90 ;
+	padding:7px;
+	color:white;
+	
+}
+
+.title{
+	position:absolute;
+	text-align:center;
+	font-size:30px;
+	background:#794b90 ;
+	color:white;
+	width:220px;
+	margin-top:40px;
+	float:left;
+	
+}
+
+
+ img{
+position:absolute;
+padding-left:400px;
+width:600px;
+height:680px;	
+padding:0px 10px 0px 0px;
+opacity:0.8;
+}
+.sec2 {
+float:left;
+width:500px;
+height:400px;
+background-image:url(noor.jpg);
+ background-size: cover;
+padding:200px 100px 80px 100px;
+text-align:center;
+position:relative;
+border-right:4px solid #fcf9dd;
+opacity:0.8;
+}
+.about{
+font-size:26px;
+color:#e4c05f;	
+font-weight:bold;
+}
+.pra{
+color:white;	
+font-size:18px;
+
+}
+#who{
+color:#e6d58f;	
+background:0px;
+padding:20px;
+border:1px solid #e6d58f;
+
+}
+#who:hover{
+	background-color:#794b90 ;
+	color:white;
+	
+}
+.allSec{
+	
+	 background:#8f76a3;
+	 position:absolute;
+	
+	
+}

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+
+<html>
+<head><title>milestones</title></head>
+<link rel="stylesheet" href="ris.css" type="text/css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<body>
+
+<header>
+<h2>Tourist Guide</h2>
+
+<nav>
+ <ul>
+ <li class="home"> <a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\HomePage.html">Home</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\aboutUs.html">About Us</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\ContactUs.html">Contact Us</a></li>
+ </ul>
+</nav>
+    </header>  
+	
+	<section>
+
+<article>
+<img src ="sw.jpg ">
+</article>
+
+<article>
+<h5>
+Jabal Sawda <br>
+is a peak located in Saudi Arabia, with a claimed elevation of 3,133 metres, on the basis of which it is 
+claimed to be the highest point in Saudi Arabia. In a 2018 GPS survey the peak's elevation was measured at a lower 2,998.7 m altitude 
+this is 2.9 m lower than that of Jabal Ferwa another Saudi Arabian peak further to the east, at 17.928547°N 43.265528°E. These elevations 
+are both consistent with public domain SRTM data. The village of Al Souda is located nearby. The town is a tourist centre and has a cable 
+car to the top of the mountain.<br><br>
+<a href="https://www.google.com/maps/place/Jabal+Sawda/@18.2677775,42.3702778,15z/data=!3m1!4b1!4m5!3m4!1s0x15e359bded47c2c1:0x24c8d5b02a966883!8m2!3d18.2677778!4d42.3702778!5m1!1e4?hl=en-SA" target="_blank"> 
+   <button>more details</button>
+</a> 
+ </h5>
+</article>
+
+
+<article>
+<img src ="park.jpg">
+</article>
+<article>
+<h5>
+Asir National Park<br>
+ is a national park in Saudi Arabia's Asir region. It was established in 1981. 
+Area: 6,491 km²
+Established: 1981
+<br><br>
+<a href="https://www.google.com/maps/place/Aseer+National+Park,+King+Abdul+Aziz+Rd,+Al+Shifa,+Abha+62511/@18.2001928,42.4954688,15z/data=!4m5!3m4!1s0x0:0xd8121c2edff7ce15!8m2!3d18.2001928!4d42.4954688?hl=en-SA" target="_blank"> 
+   <button>more details</button>
+</a> 
+ </h5>
+</article>
+
+
+
+<article>
+<img src ="sa.png">
+</article>
+
+<article>
+<h5>
+Al Sahab Park<br>
+Lookout point high on a rugged mountain, known for views across mist-shrouded surrounding peaks.
+<br><br>
+<a href="https://www.google.com/maps/place/Al+Sahab+Park/@18.2184507,42.396592,15z/data=!4m5!3m4!1s0x0:0x96242675adc1c8a4!8m2!3d18.2184507!4d42.396592?hl=en-SA" target="_blank"> 
+   <button>more details</button>
+</a> 
+ </h5>
+</article>
+
+
+
+
+
+
+<article>
+<img src ="an.jpg ">
+</article>
+
+
+<article>
+<h5>
+Andalus Park<br>
+Green space with a playground, food carts & bikes to rent, plus spring flowers & jacaranda blossoms.
+<br><br>
+<a href="https://www.google.com/maps/place/Andalus+Park/@18.2120574,42.5150943,15z/data=!4m5!3m4!1s0x0:0xd7ad13beab05b370!8m2!3d18.2120574!4d42.5150943?hl=en-SA" target="_blank"> 
+   <button>more details</button>
+</a> 
+ </h5>
+</article>
+
+
+
+
+
+<article>
+<img src ="art.webp ">
+</article>
+<article>
+<h5>
+The Art Street<br>
+Illuminated at night, this art walk features installations & murals, plus coffee shops & jacarandas.
+<br><br>
+<a href="https://www.google.com/maps/place/The+Art+Street/@18.2147279,42.4936054,15z/data=!4m5!3m4!1s0x0:0x83f6af7225315fa1!8m2!3d18.2147279!4d42.4936054?hl=en-SA" target="_blank"> 
+   <button>more details</button>
+</a> 
+ </h5>
+</article>
+
+
+
+
+
+<article>
+<img src ="rq.jpg ">
+</article>
+
+
+<article>
+<h5>
+Al-Raqdi Museum<br>
+is one of the museums in the Asir region in Abha. It was founded by “Muhammad bin Ali Al-Raqdi”.
+The museum consists of nine departments; Copper making department, clothing section, traditional 
+women's silverware, old kitchen section, handicrafts, agricultural tools, and the old Asiri council section.
+There is also a section for the Thami session, a section of the Asiriya village, a building in stone
+ architecture, a museum owner's works section, a coastal session section, and a section for selling 
+ traditional and popular pieces and products.
+<br><br>
+<a href="https://www.google.com/maps/place/Al+Raqdi+Museum/@18.204373,42.5050932,15z/data=!4m5!3m4!1s0x0:0x30318f305b95a930!8m2!3d18.204373!4d42.5050932?hl=en-SA" target="_blank"> 
+   <button>more details</button>
+</a> 
+ </h5>
+</article>
+
+
+
+
+
+
+
+
+<article>
+<img src ="mu.jpg">
+</article>
+<article>
+<h5>
+Generations Heritage Museum <br>
+is the ideal destination for anyone who wants to learn about the lifestyle of 
+the Saudi ancestors and the authenticity of the ancient past. It houses a group of heritage and archaeological pieces 
+distributed in two halls, which are represented by old coins, jewelry, weapons, agricultural tools, leather goods, manuscripts, 
+historical documents, and others. In addition, it includes a market that provides the popular foods for which the region is famous.
+<br><br>
+<a href="https://www.google.com/maps/place/%D9%85%D8%AA%D8%AD%D9%81+%D8%A7%D9%84%D8%A3%D8%AC%D9%8A%D8%A7%D9%84+%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A%E2%80%AD/@18.3141745,42.5401023,15z/data=!4m5!3m4!1s0x0:0x24034024f6403c49!8m2!3d18.3141918!4d42.5401638?hl=en-SA" target="_blank"> 
+   <button>more details</button>
+</a> 
+ </h5>
+</article>
+
+
+
+
+
+
+
+<article>
+<img src ="n.jpg ">
+</article>
+<article>
+<h5>
+Nahran Mountain <br>
+is located in the city of Abha within the Sarawat mountain range at an altitude 
+of 2,837 meters. Its summit is reached through a hiking trip interspersed with a group of amazing landscapes.
+ Its visitors can enjoy a distinctive view of the neighboring village of Bani Mazin and the picturesque surroundings.
+ Relax, take picnics and take advantage of the calm atmosphere and the mild weather.
+<br><br>
+<a href="https://www.google.com/maps/place/Nahran+Mountain/@18.1752148,42.4672218,15z/data=!4m5!3m4!1s0x0:0x3709e44833c8873b!8m2!3d18.1752148!4d42.4672218?hl=en-SA" target="_blank"> 
+   <button>more details</button>
+</a> 
+ </h5>
+</article>
+
+
+
+
+
+
+
+<article>
+<img src ="air.jpg ">
+</article>
+<article>
+<h5>
+Abha Airport Park<br>
+ is the largest park in the Asir region. It extends over an area of more than 125,000 square meters. 
+It includes a group of vast green spaces, children&#39;s play areas, a fountain in the middle of the garden, many walking paths,
+ seating and picnic areas. One of the most prominent elements of the airport park is a waterway that reaches It is 260 meters long
+ and has three wooden bridges with amazing designs
+<br><br>
+<a href="https://www.google.com/maps/place/Airport+Park/@18.2419221,42.6433196,15z/data=!4m5!3m4!1s0x0:0x73562398bb015c2d!8m2!3d18.2419221!4d42.6433196?hl=en-SA" target="_blank"> 
+   <button>more details</button>
+</a> 
+ </h5>
+</article>
+
+
+
+
+
+
+
+<article>
+<img src ="mo.webp ">
+</article>
+<article>
+<h5>
+Waterfall Park<br>
+Home to some of the best waterfalls in the city of Abha, the Waterfall Park is one of the best places that you can visit here, 
+since it involves adventure as well as relaxation, and offers an experience like no other. The Park is home to some of the city’s most 
+famous seasonal waterfalls that cascade down from the mountains to the estuary within the Tuhama Valley. The Park is also a great place to
+ plan picnics, take relaxing strolls or indulge in nature photography.
+<br><br>
+<a href="https://www.google.com/maps/place/Waterfall+Park/@18.2315793,42.5005299,15z/data=!4m2!3m1!1s0x0:0x458848cc47ea188?sa=X&hl=en-SA&gl=sa&ved=2ahUKEwior5mj0fP3AhXLy4UKHXeJAL0Q_BJ6BAhDEAU" target="_blank"> 
+   <button>more details</button>
+</a> 
+ </h5>
+</article>
+
+
+
+
+
+</section>
+</body>
+</html>

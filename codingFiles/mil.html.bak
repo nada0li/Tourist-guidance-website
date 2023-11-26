@@ -1,0 +1,128 @@
+<!DOCTYPE>
+<html>
+<link rel="stylesheet"href="mil2.css" type="text/css">
+<head>
+<title>AmwajShakerAlhothli</title>
+</head>
+<header>
+<div class ="logo-grad">Tourist Guide</div>
+<ul class = "nav">
+<li class="home"> <a href="C:\Users\alram\OneDrive\Desktop\HomePage.html">Home</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\aboutUs.html">About Us</a></li>
+<li><a href="C:\Users\alram\OneDrive\Desktop\ContactUs.html">Contact Us</a></li>
+
+ </ul>
+</a>
+</header>
+<body>
+
+
+
+
+<nav class="content">
+<section>
+
+<h3>Hegra Fort</h3></br>
+
+<p>At a distance of less than 22 km from Al-Ula, the "Hijra" area is located 
+in the middle of the desert and mountain canyons, which UNESCO considered a
+ world heritage site, witnessing the civilization of the region during the Nabataean period
+ The history of the area dates back to the middle of the first century BC. 
+ It tells the story of the ancient Nabataean civilization, and suggests to the visitor 
+ that that civilization is still present before his eyes. Hijra is located 
+ south of the Jordanian city of Petra</p>
+ <p>This archaeological wonder that previously formed the 
+ trade route between the Arabian Peninsula 
+ and the cities of the Mediterranean and Asia,</p></br>
+ </section>
+<a href="https://www.visitsaudi.com/ar/see-do/destinations/alula/a-carved-phenomenon-envisioning-the-past"target="_blank">
+<button>More Details</button>
+</a>
+
+
+
+
+
+</nav>
+
+<nav class="content2" >
+<section>
+<img src ="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\mo0.jpeg" alt="" width="500.2px" height="400px; padding-left="700px;>
+</section>
+
+</nav>
+<nav class="content">
+<section>
+
+<h3>DADAN</h3></br>
+<p>Before the Nabataeans, AlUla was the capital of the ancient kingdoms of Dadan and Lihyan, 
+which controlled the caravan trade in the first millennium BCE. Dadan linked southern Arabian kingdoms producing 
+valuable aromatics to the growing markets in the Mediterranean world. See remarkably well-preserved tombs</P>
+ <P>expertly carved from a towering red-rock mountain face that overlooks the valley oasis.
+ A special highlight is the famed Lion Tombs marked by seated lion sculptures.</p></br>
+
+</section>
+<a href="https://www.experiencealula.com/en/discover-alula/heritage/dadan"target="_blank">
+<button>More Details</button>
+</a>
+</nav>
+
+<nav class="content2" >
+<section>
+<img src ="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\mo3.jpeg" alt="" width="500.2px" height="400px; padding-left="700px;>
+</section>
+
+</nav>
+
+<nav class="content">
+<section>
+
+<h3>Old Town</h3></br>
+<p>Look up at the fort above while walking through the labyrinth of streets of AlUla Old Town
+ that was occupied from the 900s CE until the 1980s. Nearly 900 two-storey mud brick houses,
+ 400 shops, five squares and a mosque populated the oasis town. </p>
+ <p>It was a key stop along the Islamic pilgrimage
+ route from Damascus to Makkah. Travellers, traders and pilgrims would be met outside the town’s walls.</p></br>
+
+</section>
+<a href="https://www.experiencealula.com/en/discover-alula/heritage/alula-old-town"target="_blank">
+<button>More Details</button>
+</a>
+
+</nav>
+
+<nav class="content2" >
+<section>
+<img src ="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\mo33.jpeg" alt="" width="500.2px" height="400px; padding-left="700px;>
+</section>
+
+</nav>
+
+<nav class="content">
+
+
+<h3>Al Diwan</h3></br>
+<p>Religious or ritual practices at Hegra were concentrated around Jabal Ithlib
+, a natural mountain outcrop to the east of the city.
+ A special feature is a rock-cut<p/>
+ <p>chamber known as the Diwan, where ritual or elite banqueting and
+ political discussions took place</p></br>
+
+<a href="https://www.tripadvisor.com/Attraction_Review-g1802184-d20871364-Reviews-Al_Diwan-AlUla_Al_Madinah_Province.html"target="_blank">
+<button>More Details</button>
+</a>
+
+
+
+</nav>
+
+<nav class="content2" >
+<section>
+<img src ="C:\Users\alram\OneDrive\Desktop\مشروع التقنيه\mo5.jpeg" alt="" width="500.2px" height="400px; padding-left="700px;>
+</section>
+
+</nav>
+
+</body>
+
+</html>
